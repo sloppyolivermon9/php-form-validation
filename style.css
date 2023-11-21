@@ -1,0 +1,26 @@
+body {
+    font-family: Sans-serif;
+    text-align: center;
+}
+
+h4 {
+    display: inline;
+}
+
+input {
+    margin-top: 5px;
+    transition: 0.3s;
+}
+
+button {
+    margin-top: 10px;
+    transition: 0.3s;
+}
+
+input:hover {
+    box-shadow: 2px 2px 2px #696969
+}
+
+button:hover {
+    box-shadow: 2px 2px 2px #696969
+}
